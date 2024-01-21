@@ -1,11 +1,13 @@
 # dobot - AIStarter
 
-A projeto implementation for dobot AI-Starter KIT
-By: Paulo M Leite
+Dobot Starter-AI implementation by PMLEITE
 
+## Dobot HARDWARE
 
+- Gyroscope
 
-## Giroscopio
-https://github.com/Seeed-Studio/Grove_3Axis_Digital_Compass_HMC5883L
+  https://github.com/Seeed-Studio/Grove_3Axis_Digital_Compass_HMC5883L
+
+- Motors
 
 
