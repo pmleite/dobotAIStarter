@@ -1,6 +1,5 @@
 #include "./src/Starter.h"
 
-
 void setup(){
 
     // Serial initiation
@@ -11,7 +10,6 @@ void setup(){
     EncodersInit();
     //Motors initiation
     MotorInit();
-
 
 }
 

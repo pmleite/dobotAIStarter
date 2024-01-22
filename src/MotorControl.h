@@ -2,7 +2,6 @@
 #define _MOTORCONTROL_H_
 
 #include <Arduino.h>
-#include <avr/iom2560.h>
 
 #define EDUCATION 9 //Compenstation for the education version
 #define CONTEST -1  //Compenstation for the contest version
