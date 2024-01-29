@@ -3,12 +3,14 @@
 
 
 //#include <avr/iom256rfr2.h>
-#include "MotorControl.h"
-#include "IrSensors.h"
+#include "Arduino.h"
+#include "Beeper.h"
 #include "USSensor.h"
-#include "Beep.h"
-#include "E2PROM.h"
+#include "IrSensors.h"
 #include "GyroSensor.h"
+#include "MotorControl.h"
+#include "EEPROM.h"
+#include "E2PROM.h"
 
 
 // PINS DEFINITION
