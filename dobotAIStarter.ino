@@ -10,12 +10,13 @@ void setup(){
     EncodersInit();
     //Motors initiation
     MotorInit();
+    IRInit();
 
 }
 
 
 void loop(){
 
-    MotorR(0);
+    //IRTest();
    
 }
