@@ -2,7 +2,6 @@
 #define _DOBOT_AI_H_
 
 #include "MotorControl.h"
-#include "TimerOne.h"
 
 // PINS DEFINITION
 #define BUZZER_PIN 11
