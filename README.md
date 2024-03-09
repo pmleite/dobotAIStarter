@@ -2,6 +2,11 @@
 
 Dobot Starter-AI implementation by PMLEITE
 
+## install:
+https://arduino.github.io/arduino-cli/0.35/installation
+
+
+
 ## Dobot HARDWARE
 
 - Buzzer -> PIN 11

@@ -1,4 +1,4 @@
-#include "./src/Starter.h"
+#include "Starter.h"
 
 #define  IR_NUM    6              
 #define  DBG_EN    0
@@ -97,6 +97,7 @@ void setCarSpeed(const float curPos){
 
 
 void loop(){
+    
     if(!AIStarter_SmartBotGetKeyValue(37)) {
         delay(5);
         if(!AIStarter_SmartBotGetKeyValue(37)) {

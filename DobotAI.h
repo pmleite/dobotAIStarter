@@ -5,6 +5,7 @@
 //#include <avr/iom256rfr2.h>
 #include "Arduino.h"
 #include "Beeper.h"
+#include <Servo.h>
 #include "USSensor.h"
 #include "IrSensors.h"
 #include "GyroSensor.h"
@@ -12,7 +13,6 @@
 #include "ColorSensor.h"
 #include "TimerOne.h"
 #include "EEPROM.h"
-#include <Servo.h>
 #include "E2PROM.h"
 
 
